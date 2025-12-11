@@ -748,7 +748,7 @@ const App = () => {
                 onClick={fetchAllQuadras}
                 className="mt-3 mb-4 px-4 py-3 bg-indigo-600 text-white rounded-xl shadow hover:bg-indigo-700 transition flex items-center gap-2"
               >
-                📋
+                📋 Lista de quadras
               </button>
 
               <div className="flex flex-col sm:flex-row gap-4">
